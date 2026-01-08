@@ -1,5 +1,6 @@
 {
   "project": "CANCar",
   "version": "1.0.2",
-  "bin": "https://mazilium.github.io/CANCar-FW/docs/cancar-1.0.2.bin"
+  "bin": "https://mazilium.github.io/CANCar-FW/cancar-1.0.2.bin"
+
 }
